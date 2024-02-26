@@ -1,0 +1,11 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "tsx example.ts"
+  },
+  "dependencies": {
+    "tsx": "^4.7.1"
+  }
+}
