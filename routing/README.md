@@ -15,4 +15,3 @@ Zorg ervoor dat de navigatie de actieve pagina weergeeft door deze een kleur te 
 ### Opdracht 4
 
 Maak nu een extra pagina aan genaamd coming-soon en zorg ervoor dat deze geen navigatie heeft maar de andere pagina's wel.
-# nextjs-fundamentals
